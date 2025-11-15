@@ -50,9 +50,13 @@ Para cada cluster el notebook produce un bloque que contiene:
 - **Por qué el cluster tiene ese comportamiento**: lista de las features (probabilidades de morir) que se desvían más del promedio global y la dirección (mayor/menor).  
 - **Estadísticas de tasas de suicidio** dentro del cluster (promedio por las columnas `Crude suicide rates (...)`) — esto permite responder preguntas como:
   - *¿Este cluster muestra mayor probabilidad de suicidio?*  
-  - *¿Este cluster muestra mayor probabilidad de morir prematuramente entre 30 y 70 años?*  
+  - *¿Este cluster muestra mayor probabilidad de morir prematuramente entre 30 y 70 años?*
 
----
+    ---
+    ## Link Permanente
+    
+    https://huggingface.co/spaces/Amymarlene/suiciderates
+
 
 ## 💻 Interfaz y consumo del modelo
 - Interfaz Gradio incluida: recibe los **valores de las 3 features** (las 3 columnas `Probability (%) ...`) y devuelve:
