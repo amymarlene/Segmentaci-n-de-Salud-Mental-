@@ -1,5 +1,8 @@
 # 🔬 Segmentación por Estado Mental — Análisis y Modelo (Suicide Rates)
 
+![Cluster PCA](https://github.com/amymarlene/Segmentaci-n-de-Salud-Mental-/blob/main/cluster%20pca.png?raw=true)
+
+
 **Resumen breve**  
 Este repositorio contiene el código y los artefactos para realizar una **segmentación (clustering)** sobre el dataset `crude suicide rates.csv`.  
 **Objetivo:** dividir la población en **n clusters** de atención según indicadores de salud (vulnerabilidad / riesgo), calcular las métricas de evaluación (inercia y silhouette) y entregar **un informe por cluster** que permita a un profesional de salud entender por qué cada cluster presenta ese comportamiento. Además incluye una **interfaz web (Gradio)** para consumir el modelo.
