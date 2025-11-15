@@ -1,4 +1,4 @@
-# 🔬 Segmentación por Estado Mental — Análisis y Modelo (Suicide Rates CSV)
+# 🔬 Segmentación por Estado Mental — Análisis y Modelo (Suicide Rates)
 
 **Resumen breve**  
 Este repositorio contiene el código y los artefactos para realizar una **segmentación (clustering)** sobre el dataset `crude suicide rates.csv`.  
