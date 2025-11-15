@@ -60,5 +60,3 @@ Para cada cluster el notebook produce un bloque que contiene:
   - Texto resumen/interpretación para el médico (generado a partir del `cluster_summaries`).
 
 
-## 🧰 Dependencias (ejemplo `requirements.txt`)
-
