@@ -59,7 +59,7 @@ Para cada cluster el notebook produce un bloque que contiene:
 
 
 ## 💻 Interfaz y consumo del modelo
-- Interfaz Gradio incluida: recibe los **valores de las 3 features** (las 3 columnas `Probability (%) ...`) y devuelve:
+- Interfaz Gradio incluida: recibe los **valores de features** y devuelve:
   - Cluster asignado (entero).  
   - Texto resumen/interpretación para el médico (generado a partir del `cluster_summaries`).
 
